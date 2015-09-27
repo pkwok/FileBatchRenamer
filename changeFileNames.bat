@@ -1,0 +1,1 @@
+java -cp "PathOfTheJarFile\changeFileNames.jar" changeFileNames

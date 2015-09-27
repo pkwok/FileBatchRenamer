@@ -19,3 +19,6 @@ The program allows users to:
          java -cp "PathOfTheJarFile\changeFileNames.jar" changeFileNames
           ```
     Alternatively, use the included changeFileNames.bat file and just modify the path of the jar file to reflect where it is on your system.
+
+## Use
+1. Simply put the changeFileNames.bat into any location (recommended a folder you often want to use this application in) and double click the executable when you want to rename a bunch of files.
